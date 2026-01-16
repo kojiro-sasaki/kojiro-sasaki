@@ -1,29 +1,45 @@
-## Systems & Low-level Development
+##  Low-level & Systems Programming
 
-| Language | Technologies |
-|---------|--------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" /> | **SFML · LibSodium · Asio / Boost.Asio**|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | **SFML** |
+<p align="left">
+  <img src="https://camo.githubusercontent.com/30a6d4761b1a48f9bf898d47a9bfd39bcb49e16bc76358f3058bcaef8c3a5607/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" width="48" title="C++"/>
+  <img src="https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" width="48" title="C"/>
+  <img src="https://camo.githubusercontent.com/0e6d892b485daf02187bfab27efff494f833f57c7794de5157ed85e41d68490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374" width="48" title="Rust"/>
 
+</p>
 
-## Cybersecurity Skills
+---
 
-| Tool | What I do |
-|:---- |-----------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" /> **Kali Linux** | Pen‑testing environment, CLI workflows |
-|<img src="https://images.icon-icons.com/2148/PNG/512/nmap_icon_132152.png" width="42" /> **Nmap** | Network scanning, host discovery, port enumeration |
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" /> **Bash** | Shell usage, automation basics |
+##  Cybersecurity & Pentesting
+
+<p align="left">
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" title="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="48" title="SSH"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" title="Nmap"/>
+</p>
+
 
 
 ---
 
-### 🧩 **Quick summary**
-<div style="border: 1px solid #555; padding: 12px; border-radius: 6px; background:#111;">
-<b>• Offensive skills:</b> host discovery, port scanning, service fingerprinting.  <br>
-<b>• Networking:</b> TCP/IP basics, common protocols (HTTP, DNS, SSH).
-</div>
+##  Quick Summary
+
+>  **Offensive skills**
+- Host discovery
+- Port scanning
+- Service fingerprinting
+
+>  **Networking**
+- TCP/IP fundamentals
+- HTTP / DNS / SSH basics
+
+>  **Low-level**
+- Systems programming
+- Memory & performance oriented code
+- Native binaries & tooling
 
 ---
 
 ## LeetCode
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kojiro-sasaki?theme=dark&font=JetBrains%20Mono&ext=heatmap&hide=recent)
