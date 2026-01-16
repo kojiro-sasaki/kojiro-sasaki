@@ -1,14 +1,20 @@
 ##  Low-level & Systems Programming
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/30a6d4761b1a48f9bf898d47a9bfd39bcb49e16bc76358f3058bcaef8c3a5607/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" width="48" title="C++"/>
-  <img src="https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" width="48" title="C"/>
-  <img src="https://camo.githubusercontent.com/0e6d892b485daf02187bfab27efff494f833f57c7794de5157ed85e41d68490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374" width="48" title="Rust"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48" title="C"/>
+  <img src="https://skillicons.dev/icons?i=rust" width="48" title="Rust"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux"/>
 </p>
 
 ---
+### Other Programming Language & Tools
+###
 
+
+![](https://skillicons.dev/icons?i=python,js,git)
+
+---
 ##  Cybersecurity & Pentesting
 
 <p align="left">
