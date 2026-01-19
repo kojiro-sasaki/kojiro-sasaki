@@ -45,6 +45,7 @@
 - Native binaries & tooling
 
 ---
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kojiro-sasaki&theme=github_dark" width="30%"/>
 
 ## LeetCode
 
