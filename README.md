@@ -29,7 +29,6 @@
 ---
 
 ##  Quick Summary
-
 >  **Offensive skills**
 - Host discovery
 - Port scanning
