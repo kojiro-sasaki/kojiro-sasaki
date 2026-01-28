@@ -11,7 +11,6 @@
 ### Other Programming Language & Tools
 ###
 
-
 ![](https://skillicons.dev/icons?i=python,js,git)
 
 ---
