@@ -4,14 +4,15 @@
   <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/>
   <img src="https://skillicons.dev/icons?i=c" width="48" title="C"/>
   <img src="https://skillicons.dev/icons?i=rust" width="48" title="Rust"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=go" width="48" title="Linux"/>
+
 </p>
 
 ---
 ### Other Programming Language & Tools
 ###
 
-![](https://skillicons.dev/icons?i=python,js,git)
+![](https://skillicons.dev/icons?i=python,js,git,linux)
 
 ---
 ##  Cybersecurity & Pentesting
