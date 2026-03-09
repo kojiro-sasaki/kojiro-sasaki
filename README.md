@@ -1,4 +1,4 @@
-##  Low-level & Systems Programming
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/>
@@ -7,10 +7,6 @@
   <img src="https://skillicons.dev/icons?i=go" width="48" title="Linux"/>
 
 </p>
-
----
-### Other Programming Language & Tools
-###
 
 ![](https://skillicons.dev/icons?i=python,js,git,linux)
 
